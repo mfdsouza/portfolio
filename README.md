@@ -20,7 +20,7 @@ To be created.
 ## Projetos:
 Veja os meus tutoriais publicados:
 
-TO BE CREATED
+* **Análisando os Dados do Airbnb (Roma)** https://github.com/mfdsouza/portfolio/blob/main/Analisando_os_Dados_do_Airbnb_(Roma).ipynb
 
 Tutorias do tutor Carlos Melo:
 
