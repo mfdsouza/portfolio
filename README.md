@@ -21,6 +21,7 @@ To be created.
 Veja os meus tutoriais publicados:
 
 * **Análisando os Dados do Airbnb (Roma)** https://github.com/mfdsouza/portfolio/blob/main/Analisando_os_Dados_do_Airbnb_(Roma).ipynb
+* **Panorama da COVID-19 no Brasil** https://colab.research.google.com/drive/1EPezqwab1is8fR0K96iYQsdtyL32LBpV#scrollTo=7zGOxsFFFQvP
 
 Tutorias do tutor Carlos Melo:
 
