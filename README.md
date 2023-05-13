@@ -25,6 +25,8 @@ Veja os meus tutoriais publicados:
 * https://colab.research.google.com/drive/1EPezqwab1is8fR0K96iYQsdtyL32LBpV#scrollTo=7zGOxsFFFQvP
 * **Detecção de Fraudes em Cartões de Crédito** 
 * https://colab.research.google.com/drive/17Hpp4cUBWXfPEmdplKQXX7vSyvvOMfHF#scrollTo=naF1MPs5b3v_
+* **Churn Prediction para uma empresa de Telecomunicações** 
+* https://colab.research.google.com/drive/1u7khxgzkgcjJnz7KgSVfHDwEH_2zoRZN?usp=share_link
 
 Tutorias do tutor Carlos Melo:
 
