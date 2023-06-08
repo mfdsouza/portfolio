@@ -27,6 +27,8 @@ Veja os meus tutoriais publicados:
 * https://colab.research.google.com/drive/17Hpp4cUBWXfPEmdplKQXX7vSyvvOMfHF#scrollTo=naF1MPs5b3v_
 * **Churn Prediction para uma empresa de Telecomunicações** 
 * https://colab.research.google.com/drive/1u7khxgzkgcjJnz7KgSVfHDwEH_2zoRZN?usp=share_link
+* **Avaliação de Risco de Crédito** 
+* https://colab.research.google.com/drive/1BFC6JY2dkIjrxHrXK2qjmDSc0koArdA8#scrollTo=HSE9raJjQMoN
 
 Tutorias do tutor Carlos Melo:
 
